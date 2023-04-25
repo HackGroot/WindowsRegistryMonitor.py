@@ -1,0 +1,16 @@
+{
+  "keys_to_monitor": [
+    {
+      "key": "HKEY_CURRENT_USER",
+      "subkey": "Software\\Microsoft\\Windows\\CurrentVersion\\Run",
+      "value_name": "SomeValue"
+    },
+    {
+      "key": "HKEY_CURRENT_USER",
+      "subkey": "Software\\Microsoft\\Windows\\CurrentVersion\\Run",
+      "value_name": "AnotherValue"
+    }
+  ],
+  "monitoring_interval": 5,
+  "log_file": "registry_monitor.log"
+}
