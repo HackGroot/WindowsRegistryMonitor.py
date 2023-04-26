@@ -23,7 +23,7 @@ Setup
 
 bash
 
-git clone https://github.com/yourusername/registry-monitor.git
+git clone https://github.com/HackGroot/WindowsRegistryMonitor.py.git
 
     Change the directory to the cloned repository:
 
